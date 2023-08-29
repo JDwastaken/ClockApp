@@ -1,2 +1,2 @@
 # ClockApp
-This is a pet project
+This is a pet project (Work in progress)
